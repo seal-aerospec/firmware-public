@@ -3,7 +3,7 @@
 #define AWS_CREDENTIALS
 #define THINGNAME "ESP32"
 
-const char AWS_IOT_ENDPOINT[] = "a1un139hjnsmk6-ats.iot.us-west-2.amazonaws.com";
+const char AWS_IOT_ENDPOINT[] = "";
 
 // Amazon Root CA 1
 static const char AWS_CERT_CA[] = "";
